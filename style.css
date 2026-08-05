@@ -20,7 +20,7 @@ body {
   background: var(--background);
   color: var(--text);
   font-family: Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.65;
 }
 
@@ -100,16 +100,16 @@ h2 {
   margin: 48px 0 16px;
   padding-bottom: 7px;
   border-bottom: 1px solid var(--border);
-  font-size: 23px;
+  font-size: 28px;
 }
 
 h3 {
   margin: 0 0 5px;
-  font-size: 19px;
+  font-size: 24px;
 }
 
 p {
-  margin: 0 0 18px;
+  margin: 0 0 24px;
 }
 
 .intro {
@@ -126,7 +126,7 @@ p {
 
 .meta {
   margin-bottom: 6px;
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .plain-list {
