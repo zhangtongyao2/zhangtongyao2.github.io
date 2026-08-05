@@ -176,7 +176,7 @@ p {
   background: var(--soft);
   border-left: 3px solid var(--border);
   color: var(--muted);
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .contact-list {
